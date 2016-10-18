@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Libre+Franklin');
+.main { 
+    font-style: normal;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+h1 {
+    font-style: normal;
+    font-family: 'Bungee Inline', sans-serif;
+}
